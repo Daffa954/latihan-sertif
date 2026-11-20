@@ -15,7 +15,7 @@ class UserSeeder extends Seeder
     {
         // Librarian / Admin
         User::firstOrCreate(
-            ['email' => 'librarian@example.com'],
+            ['email' => 'libraria1n@example.com'],
             [
                 'name' => 'Librarian',
                 'username' => 'librarian',
